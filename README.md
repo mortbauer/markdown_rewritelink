@@ -24,4 +24,4 @@ Dependencies
 
 All rights reserved.
 
-This software is released under the modified BSD License. 
+This software is released under the modified MIT License. 
