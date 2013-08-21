@@ -19,9 +19,6 @@
 Dependencies
 ------------
 
-* [Markdown 2.0+](http://www.freewisdom.org/projects/python-markdown/)
-
-
-All rights reserved.
+* [Markdown 2.0+](https://pypi.python.org/pypi/Markdown)
 
 This software is released under the modified MIT License. 
